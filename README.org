@@ -6,7 +6,7 @@
 
 * GitHub username: Will160714
 
-* Notes:
+* Notes: Intended for lowercase decryption
 
 
 
