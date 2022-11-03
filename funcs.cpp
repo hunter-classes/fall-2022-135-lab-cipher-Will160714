@@ -27,7 +27,7 @@ std::string solve(std::string encrypted_string){
     double distance;
     double smallest = 1000000;
     std::string smallest_decrypt;
-    for(int x = 0; x < 27; x++){
+    for(int x = 1; x < 27; x++){
         decrypt = decryptCaesar(fstring, x);
         countFrequency(frequency, decrypt, 27);
         distance = distanceFormula(frequency, 27);
