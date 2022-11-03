@@ -6,7 +6,7 @@
 
 * GitHub username: Will160714
 
-* Notes: Intended for lowercase decryption
+* Notes: Intended for lowercase decryption. Furthermore, g-coverage shows that caesar.cpp has low coverage rate because part of the code was meant for encryption.
 
 
 
